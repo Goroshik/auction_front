@@ -1,0 +1,9 @@
+export const categoriesConstants = {
+  GET_ALL_SUCCESS: 'CATEGORIES_GET_ALL_SUCCESS'
+};
+
+export const categoryConstants = {
+  ADD_SUCCESS: 'CATEGORY_ADD_SUCCESS',
+  UPDATE_SUCCESS: 'CATEGORY_UPDATE_SUCCESS',
+  DELETE_SUCCESS: 'CATEGORY_DELETE_SUCCESS'
+};
